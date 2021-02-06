@@ -13,7 +13,7 @@ https://ashivvers95.github.io/1.-HTML-CSS-Git-Challenge-Code-Refactor/
 
 ## Screen Capture of webpage
 
- ![Horiseon Header](
+ ![Horiseon Header](./assets/images/capture.png)
 
 ## Acknowledgments
 
