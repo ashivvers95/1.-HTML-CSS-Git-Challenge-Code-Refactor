@@ -11,9 +11,12 @@ I have restructured the website to be more accessible to every user, while simul
 
 https://ashivvers95.github.io/1.-HTML-CSS-Git-Challenge-Code-Refactor/
 
+## Repositry is here:
+
+
 ## Screen Capture of webpage
 
- ![Horiseon Header](./assets/images/capture.png)
+ ![Horiseon Header](.urban-octo-telegram/assets/images/capture.png)
 
 ## Acknowledgments
 
