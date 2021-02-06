@@ -16,7 +16,7 @@ https://ashivvers95.github.io/1.-HTML-CSS-Git-Challenge-Code-Refactor/
 
 ## Screen Capture of webpage
 
- ![Horiseon Header](.urban-octo-telegram/assets/images/capture.png)
+ ![Horiseon Header](/assets/images/capture.png "Screen Capture of header")
 
 ## Acknowledgments
 
